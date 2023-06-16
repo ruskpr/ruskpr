@@ -1,7 +1,6 @@
+### Visit My Website
 https://ruskpr.github.io/
 
-### About me 🧍
-I'm Russ, I am a software dev.
 <!--
 **ruskpr/ruskpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
