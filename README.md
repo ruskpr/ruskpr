@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/tailwind%20css-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![image](https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=pink)
+![image](https://img.shields.io/badge/Less-%230769AD?style=for-the-badge&logo=less&logoColor=white)
 ![dotnet](https://img.shields.io/badge/dotnet-563D7C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Csharp](https://img.shields.io/badge/csharp-%234ea94b.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![azure](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![microsoftazure](https://img.shields.io/badge/azure-1572B6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2354354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23ED8B00.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-20232A.svg?style=for-the-badge&logo=laravel&logoColor=red)
 ![PHP](https://img.shields.io/badge/PHP-563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### How to reach me 📱
