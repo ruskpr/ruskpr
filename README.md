@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 ![dotnet](https://img.shields.io/badge/dotnet-563D7C?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Csharp](https://img.shields.io/badge/csharp-%234ea94b.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![azure](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![aws](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![microsoftazure](https://img.shields.io/badge/azure-1572B6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-20232A.svg?style=for-the-badge&logo=laravel&logoColor=red)
 ![PHP](https://img.shields.io/badge/PHP-563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
 ### How to reach me 📱
 <p align="left" align='right'>
