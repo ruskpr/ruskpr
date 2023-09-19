@@ -1,44 +1,13 @@
-### Visit My Website 🌐
+### Visit My Portfolio 🌐
 https://ruskpr.github.io/
 
-<!--
-**ruskpr/ruskpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stack 🛠️
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-
-### My Tech Stack 🛠️
-
-![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/typescript-%230769AD.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=node.js&logoColor=green)
-![image](https://img.shields.io/badge/Angular-D14836?style=for-the-badge&logo=angular&logoColor=white")
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/tailwind%20css-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![image](https://img.shields.io/badge/SCSS-20232A?style=for-the-badge&logo=sass&logoColor=pink)
-![image](https://img.shields.io/badge/Less-%230769AD?style=for-the-badge&logo=less&logoColor=white)
-![dotnet](https://img.shields.io/badge/dotnet-563D7C?style=for-the-badge&logo=dotnet&logoColor=white)
-![Csharp](https://img.shields.io/badge/csharp-%234ea94b.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![nextjs](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwind%20css-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+![flutter](https://img.shields.io/badge/flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![aws](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![microsoftazure](https://img.shields.io/badge/azure-1572B6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-20232A.svg?style=for-the-badge&logo=laravel&logoColor=red)
-![PHP](https://img.shields.io/badge/PHP-563D7C.svg?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
 ### How to reach me 📱
 <p align="left" align='right'>
