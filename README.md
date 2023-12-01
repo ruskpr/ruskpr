@@ -1,13 +1,5 @@
-### Visit My Portfolio 🌐
+### Visit My Personal Portfolio 🌐
 https://ruskpr.github.io/
-
-### My Stack 🛠️
-
-![nextjs](https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=next.js&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind%20css-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=blue)
-![flutter](https://img.shields.io/badge/flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
-![SQL](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=green)
-![aws](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=amazon&logoColor=white)
 
 ### How to reach me 📱
 <p align="left" align='right'>
